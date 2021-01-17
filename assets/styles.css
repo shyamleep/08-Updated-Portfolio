@@ -47,6 +47,10 @@ ul {
     font-weight: 200;
 }
 
+li {
+    list-style-type: none;
+}
+
 #button {
     background-color: #ab00ce;
     margin-top: 10px;
